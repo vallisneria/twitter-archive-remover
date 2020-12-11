@@ -1,0 +1,9 @@
+# 환경 변수
+.env
+
+# 의존성 폴더
+node_modules
+
+# 기타
+tweets.js
+tweet.json
